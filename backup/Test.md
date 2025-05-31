@@ -1,1 +1,3 @@
-This is a test txt.
+```js
+console.log('hello world')
+```
